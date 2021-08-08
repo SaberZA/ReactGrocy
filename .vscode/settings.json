@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/c8d95c9c-ba28-42bf-9768-e78b8613b0fe/resourceGroups/react-grocy/providers/Microsoft.Web/sites/ReactGrocy",
+  "appService.deploySubpath": "."
+}
